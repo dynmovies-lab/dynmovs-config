@@ -2,9 +2,9 @@
   "maintenance": false,
   "message": "Dynmovs is under maintenance para sa bagong updates. Balik in a few minutes!",
   "maintenanceDuration": "30mins",
-  "minVersion": "1.0.4",
-  "updateUrl": "https://raw.githubusercontent.com/dynmovies-lab/dynmovs-config/main/Dynmovies%201.0.4.apk",
-  "updateMirror": "https://www.mediafire.com/file/8jtlaaj8q04cik4/Dynmovs_1.0.4.apk/file",
+  "minVersion": "1.0.5",
+  "updateUrl": "https://raw.githubusercontent.com/dynmovies-lab/dynmovs-config/main/Dynmovies%201.0.5.apk",
+  "updateMirror": "http://www.mediafire.com/file/7ihuijuya38ffb6/Dynmovs1.0.5.apk",
   "updateMessage": "New version available!",
   "updateFeatures": ["Bug fixes", "Performance improvements", "New features"]
 }

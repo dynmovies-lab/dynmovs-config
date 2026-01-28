@@ -2,7 +2,7 @@
   "maintenance": false,
   "message": "Dynmovs is under maintenance para sa bagong updates. Balik in a few minutes!",
   "maintenanceDuration": "30mins",
-  "minVersion": "1.0.5",
+  "minVersion": null,
   "updateUrl": "http://www.mediafire.com/file/7ihuijuya38ffb6/Dynmovs1.0.5.apk",
   "updateMirror": "https://raw.githubusercontent.com/dynmovies-lab/dynmovs-config/main/Dynmovies%201.0.5.apk",
   "updateMessage": "New version available!",

@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "message": "Dynmovs is under maintenance para sa bagong updates. Balik in a few minutes!",
   "maintenanceDuration": "30mins",
   "minVersion": "1.0.4",
